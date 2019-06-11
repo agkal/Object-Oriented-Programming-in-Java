@@ -1,0 +1,18 @@
+
+
+		name: Abdul Ghaffar kalhoro
+
+
+	Ans:	The 11 errors in given program are:
+
+		1)  Missing starting middle bracket after class.
+		2)  missing data type 'void' after 'public static'
+		3)  Missing capital braces after "String".
+		4)  Missing inverted commas in print statement
+		5)  Using smaller starting letter for System.And Incorrect spelling for Println.
+		6) use smaller case for println.
+		7) Boolean operator ? is used after inverted commas in printf statement
+		8) Missing semicolon after print statement.
+		9) Missing the statement for output which is "System.println"
+		10) Missing smaller bracket after printf statement.
+		11) Use the end middle bracket for the end of public static void.

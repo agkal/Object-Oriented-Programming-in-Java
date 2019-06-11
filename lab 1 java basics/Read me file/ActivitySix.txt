@@ -1,0 +1,13 @@
+
+
+		Name: Abdul Ghaffar Kalhoro
+
+
+		errors: 
+		
+		1) It shows error in compiling that we can not change the file name.
+		2) Shows error that missing a keyword.
+		3) does not build a program and shows error of giving quotation mark
+		4) does not build a program and shows that write complete syntex 
+		5) incorrect syntex and shows error to make it correct
+		6) Does not shows output and only shows errors to be solved by either removing braces or giving required braces.

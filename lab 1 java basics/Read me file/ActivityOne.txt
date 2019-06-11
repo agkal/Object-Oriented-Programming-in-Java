@@ -1,0 +1,14 @@
+
+		Name:	Abdul Ghaffar Kalhoro
+	Printed 1st program in java and found the following errors.
+
+
+	error 1: When changed the class name:
+			When I changed the name of class the file name was the same as that of previous, so the error occured,
+		Therefore file name should be same as that of class name.
+	error 2: Removing of one bracket.
+			When removed bracket it showed compiler error, so that without matched pair of braces it can not run
+	error 3: writing smaller "s" for start of print statement:
+			It shows compiler error, as java as case sensitive therefore we can not change the names of functions on our desire.
+	error 4: Removing semicolon
+			When we remove even semicolon it shows compilation error, that output function should be given semicolon at the end.

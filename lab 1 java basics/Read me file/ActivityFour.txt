@@ -1,0 +1,6 @@
+
+
+		name: Abdul Ghaffar
+
+
+		Ans: there are six lines in a given code
